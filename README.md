@@ -1,2 +1,2 @@
 # Iuliia.Voitenko.github.io
-  my fisrt app
+  my fisrt app: e-commerce project
